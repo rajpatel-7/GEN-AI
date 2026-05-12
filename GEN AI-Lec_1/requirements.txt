@@ -1,0 +1,52 @@
+# requirements.txt
+
+langchain
+langchain-community
+langchain-core
+
+# Model Providers
+langchain-openai
+langchain-groq
+langchain-google-genai
+langchain-mistralai
+langchain_huggingface
+
+# API SDKs
+openai
+groq
+google-generativeai
+mistralai
+
+# Environment & Utilities
+python-dotenv
+pydantic
+requests
+tqdm
+numpy
+pandas
+
+# Vector DB / RAG
+faiss-cpu
+chromadb
+
+# Embeddings
+sentence-transformers
+
+# Tokenization
+tiktoken
+
+# Web/API
+fastapi
+uvicorn
+
+# Optional LLM Apps
+streamlit
+gradio
+
+# Document Processing
+pypdf
+beautifulsoup4
+lxml
+
+# Optional Monitoring
+langsmith
